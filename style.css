@@ -34,6 +34,8 @@ body {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;;
+    border-color: #000000;
+    border-width: 4px;
   }
   
   .hour {
@@ -68,11 +70,6 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
-  }
-
-  .row{
-    border-color: #000000;
-    border-width: 4px;
   }
 
   .col-md-8{
