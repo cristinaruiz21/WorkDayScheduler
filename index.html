@@ -110,6 +110,24 @@
             <i class="fas fa-save"></i>
           </button>
       </div>
+      <div class="row time-block" id="18">
+        <div class="col-md-1 hour">
+          <p>6 PM</p>
+        </div>
+          <textarea class="description col-md-10"></textarea>
+          <button id="6pm-save" class="saveBtn col-md-1 btn">
+            <i class="fas fa-save"></i>
+          </button>
+      </div>
+      <div class="row time-block" id="19">
+        <div class="col-md-1 hour">
+          <p>7 PM</p>
+        </div>
+          <textarea class="description col-md-10"></textarea>
+          <button id="7pm-save" class="saveBtn col-md-1 btn">
+            <i class="fas fa-save"></i>
+          </button>
+      </div>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <script type="text/javascript">
@@ -153,6 +171,8 @@
       $("#15 .description").val(localStorage.getItem("15"));
       $("#16 .description").val(localStorage.getItem("16"));
       $("#17 .description").val(localStorage.getItem("17"));
+      $("#18 .description").val(localStorage.getItem("18"));
+      $("#19 .description").val(localStorage.getItem("19"));
 
       $(".saveBtn").on("click", saveInput);
     </script>
