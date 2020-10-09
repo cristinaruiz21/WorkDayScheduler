@@ -8,3 +8,8 @@ Lessons Learned: I learned how to use the localStorage feature, which allows the
 Contributors: UT Austin Coding Bootcamp instructors and students; github:UTA-AUS-FSF-FT-09-2020-U-C-Students
 
 Video of the program: <iframe src="https://drive.google.com/file/d/16wMOEJdIxkQaXS5GrO-SHgAJeTiuTZG-/preview" width="640" height="480"></iframe>
+
+Screen shot of program: ![Work-day-scheduler](https://user-images.githubusercontent.com/64928939/95542244-e1b16b00-09ba-11eb-9604-4e2b00ce5b7e.png)
+
+
+Live URL link:  https://cristinaruiz21.github.io/WorkDayScheduler/
